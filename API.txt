@@ -1,3 +1,5 @@
+from jim.wu@suryani.cn
+
 == TODO ==
 
 * Add remote branch references (Grit::Remote)
